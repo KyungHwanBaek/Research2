@@ -1,0 +1,20 @@
+[
+  {
+    "source": "experiments/student_hall_lidar/fused/summary.json",
+    "copy": "reports/lidar_summary.json",
+    "source_sha256": "5baee17fcf2b77f9d69d0bd786874868b39aaed4dbe815c5a0191701c9c6c0dc",
+    "normalization": "local project root replaced with <PROJECT_ROOT>"
+  },
+  {
+    "source": "experiments/student_hall_lidar/fused/poisson_validation.json",
+    "copy": "reports/poisson_validation.json",
+    "source_sha256": "ed66e0389f0f41f59ed6c9f089336fff450b949645a14da7c063c105c22b4cf2",
+    "normalization": "local project root replaced with <PROJECT_ROOT>"
+  },
+  {
+    "source": "experiments/student_hall_research_20261027/results.json",
+    "copy": "reports/gaussian_results.json",
+    "source_sha256": "103c99d831c716e6ebe7a924264b29b65dfdcc3b33f82e777265b39b23832b0e",
+    "normalization": "local project root replaced with <PROJECT_ROOT>"
+  }
+]

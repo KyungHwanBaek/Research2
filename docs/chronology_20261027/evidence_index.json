@@ -1,0 +1,130 @@
+{
+  "created_at_kst": "2026-10-27T04:16:45.627993+09:00",
+  "scope": "Historical record synthesis only. No new reconstruction experiments.",
+  "date_policy": "KST. Prefer run timestamps and in-log dates; dated reports and site Git commits supplement older records. No work inferred on missing dates. Word template metadata dates ignored.",
+  "rounds": [
+    {
+      "folder": "experiments/student_hall_refinement_20261026",
+      "first_start_kst": "2026-10-26T00:49:26.464149+09:00",
+      "last_end_kst": "2026-10-26T01:44:20.592067+09:00",
+      "execution_entries": 41,
+      "statuses": {
+        "succeeded": 39,
+        "failed": 2
+      }
+    },
+    {
+      "folder": "experiments/student_hall_refinement_20261027",
+      "first_start_kst": "2026-10-27T01:13:32.509936+09:00",
+      "last_end_kst": "2026-10-27T02:26:11.676364+09:00",
+      "execution_entries": 33,
+      "statuses": {
+        "succeeded": 33
+      }
+    },
+    {
+      "folder": "experiments/student_hall_research_20261027",
+      "first_start_kst": "2026-10-27T02:38:35.461925+09:00",
+      "last_end_kst": "2026-10-27T02:54:06.742261+09:00",
+      "execution_entries": 19,
+      "statuses": {
+        "succeeded": 18,
+        "failed": 1
+      }
+    }
+  ],
+  "sources": [
+    {
+      "path": "README.md",
+      "sha256": "85f53b358b187e98fcad115e9fae0c20470ed66f2c5c5dc301c3957cda9ad372",
+      "modified_at_kst": "2026-10-21T19:35:27.763316+09:00"
+    },
+    {
+      "path": "STATUS.md",
+      "sha256": "063ee044fb631503795e09c8ca94f5feb05fb764c29ae8f2e332c7b30fcd4d3c",
+      "modified_at_kst": "2026-10-21T19:39:43.490489+09:00"
+    },
+    {
+      "path": "STEREO_IMPROVEMENT_REPORT.md",
+      "sha256": "bf16038798df28c2407426dbc3a00099d72bf39954dd5d2759b98e9d3afae0e7",
+      "modified_at_kst": "2026-10-19T17:46:05.120555+09:00"
+    },
+    {
+      "path": "JOINT_STEREO_PUBLIC_REPORT.md",
+      "sha256": "fa2020386de1ef83dc9ace800af205fc244e2efedfe5d35a84e63fa418fcf03a",
+      "modified_at_kst": "2026-10-19T18:59:12.210054+09:00"
+    },
+    {
+      "path": "STUDENT_HALL_LIDAR_REPORT.md",
+      "sha256": "1d135537a65e1d05aa9f55f64e8b8905fe361bda323df0dad6f5dcdd68d1e6f2",
+      "modified_at_kst": "2026-10-21T19:33:53.673724+09:00"
+    },
+    {
+      "path": "STUDENT_HALL_REFINEMENT_REPORT.md",
+      "sha256": "b5b8e6d12254032b406ad87ac5d8792c2ab38b51f58ad6eafa5bbfc5b03232e0",
+      "modified_at_kst": "2026-10-26T01:44:20.459030+09:00"
+    },
+    {
+      "path": "STUDENT_HALL_FOLLOWUP_20261027.md",
+      "sha256": "8d0b3d91d5b93ca5cb994b222aa67b118e667411e9adb06d10d6164de45a2b09",
+      "modified_at_kst": "2026-10-27T02:25:02.277718+09:00"
+    },
+    {
+      "path": "STUDENT_HALL_RESEARCH_20261027.md",
+      "sha256": "0403c4eb8601db2fd7a26601275fa1e59911240bec6b0ef9a3bb1c63c12395d1",
+      "modified_at_kst": "2026-10-27T02:54:44.302454+09:00"
+    },
+    {
+      "path": "docs/student_hall_explanation/structural_audit.json",
+      "sha256": "306391f5d7f4cf6f88b55a9de6e377fd0a0d63362eb9463833618e3d7a22ea40",
+      "modified_at_kst": "2026-10-22T14:29:28.405461+09:00"
+    },
+    {
+      "path": "docs/student_hall_explanation/web_download_verification.json",
+      "sha256": "39ccfb5b35972ba8a024fc39d93b8036eba51c9600037516d325f0cfdb8a44b3",
+      "modified_at_kst": "2026-10-22T14:40:33.197996+09:00"
+    },
+    {
+      "path": "experiments/student_hall_refinement_20261026/results.json",
+      "sha256": "97bfaa868b2dd5f5aca782e2de51a4cb46b4202eb6ca18b4f21c47c599d0255b",
+      "modified_at_kst": "2026-10-26T01:44:20.456548+09:00"
+    },
+    {
+      "path": "experiments/student_hall_refinement_20261026/publication.json",
+      "sha256": "66bce0b9430502d5861ba4916e4f5316a56e37f4130243fb838d81d147e29ebc",
+      "modified_at_kst": "2026-10-26T01:49:13.095654+09:00"
+    },
+    {
+      "path": "experiments/student_hall_refinement_20261027/results.json",
+      "sha256": "8255568cce162c98d656117c5ecab11b6cf1ff06897b92feb7871a5e443e3730",
+      "modified_at_kst": "2026-10-27T02:25:01.484237+09:00"
+    },
+    {
+      "path": "experiments/student_hall_refinement_20261027/publication.json",
+      "sha256": "44b0d2dc5154542b77b54b668638bd9fdb02b614d4b4925fda1cefbff527067e",
+      "modified_at_kst": "2026-10-27T02:33:06.829178+09:00"
+    },
+    {
+      "path": "experiments/student_hall_research_20261027/results.json",
+      "sha256": "103c99d831c716e6ebe7a924264b29b65dfdcc3b33f82e777265b39b23832b0e",
+      "modified_at_kst": "2026-10-27T02:54:44.301584+09:00"
+    },
+    {
+      "path": "experiments/student_hall_research_20261027/publication.json",
+      "sha256": "7e69af76fdf0cbf27837c13d4ff3ed98165dc75099548c1f0d1bc5113b1ffa9a",
+      "modified_at_kst": "2026-10-27T02:57:22.958481+09:00"
+    }
+  ],
+  "site_git_history": "3739bf4 2026-10-27T02:55:09+09:00 Update Site source\n5f432cf 2026-10-27T02:27:46+09:00 Update Site source\n5eb8eda 2026-10-26T01:44:54+09:00 Update Site source\n0de6f73 2026-10-22T14:37:13+09:00 Update Site source\n2a6db20 2026-10-21T19:35:18+09:00 Update Site source\n5e36012 2026-10-19T18:57:04+09:00 Update Site source\n",
+  "report": {
+    "path": "docs/3d_reconstruction_chronology_20261027.md",
+    "bytes": 27731,
+    "sha256": "411b1070481d63bb98e4c7260ae7ba7c9bf4a62f8d8295b47fc4ec3c9ce91e95"
+  },
+  "review_notes": [
+    "09-05 long route and 01-26 student hall are different datasets; rendering metrics not mixed.",
+    "Native SSIM from Oct21 differs from later common PNG evaluation; both definitions documented.",
+    "Counts of executions include environment, preparation, evaluation and record generation.",
+    "No browser/UI QA or independent surveying accuracy newly claimed."
+  ]
+}

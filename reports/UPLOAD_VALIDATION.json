@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-02",
+  "scope": "GitHub source publication; no new reconstruction or clean-clone end-to-end reproduction performed",
+  "checks": {
+    "python_ast": {
+      "files": 78,
+      "passed": true
+    },
+    "shell_syntax": {
+      "files": 2,
+      "passed": true
+    },
+    "javascript_syntax": {
+      "files": 2,
+      "passed": true,
+      "note": "hall_overview_controller.js is a fragment inserted in an async function; validated using AsyncFunction parsing, not CommonJS standalone parsing"
+    },
+    "large_file_scan": {
+      "limit_bytes": 10485760,
+      "findings": []
+    },
+    "credential_pattern_scan": {
+      "findings": [],
+      "note": "Pattern scan of candidate tracked files; authentication stores were neither copied nor printed"
+    }
+  },
+  "omitted": [
+    "raw datasets",
+    "large models and intermediate artifacts",
+    "virtual environments",
+    "third-party source checkouts",
+    "nested site repository and hosting settings",
+    "binary Word/PDF documents"
+  ],
+  "limitations": [
+    "Markdown archives preserve historical local-path references",
+    "Small evidence copies have local project-root paths normalized",
+    "Latest summary distinguishes completed work from unimplemented novelty proposals"
+  ]
+}

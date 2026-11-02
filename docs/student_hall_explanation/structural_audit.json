@@ -1,0 +1,18 @@
+{
+  "preset": "standard_business_brief",
+  "header": "memo_masthead (no rule)",
+  "named_overrides": [
+    "KoreanFont",
+    "Title",
+    "TableText",
+    "CaptionText",
+    "NoteText"
+  ],
+  "planned_pages": 7,
+  "tables": 5,
+  "images": 8,
+  "paragraphs": 86,
+  "page_and_table_geometry": "passed",
+  "visual_render_QA": "unavailable: LibreOffice/soffice is not installed; canonical renderer attempted",
+  "deliverable": "/Users/baekkyunghwan/Desktop/3d_reconstruction/docs/학생회관_3D복원_과정과결과_정리.docx"
+}

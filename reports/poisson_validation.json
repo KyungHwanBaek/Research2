@@ -1,0 +1,85 @@
+{
+  "candidates": [
+    {
+      "clipped_mae_cm": 22.83121681213379,
+      "samples": 77582,
+      "views": [
+        {
+          "frame": 5,
+          "coverage": 0.9428680981595092,
+          "clipped_mae_cm": 33.93992233276367
+        },
+        {
+          "frame": 13,
+          "coverage": 0.939403578528827,
+          "clipped_mae_cm": 28.454885482788086
+        },
+        {
+          "frame": 21,
+          "coverage": 1.0,
+          "clipped_mae_cm": 17.34573745727539
+        },
+        {
+          "frame": 29,
+          "coverage": 0.9720142383699522,
+          "clipped_mae_cm": 24.725004196166992
+        },
+        {
+          "frame": 37,
+          "coverage": 0.8850005755726948,
+          "clipped_mae_cm": 30.9725341796875
+        },
+        {
+          "frame": 45,
+          "coverage": 0.9832528307862856,
+          "clipped_mae_cm": 13.030033111572266
+        }
+      ],
+      "depth": 10,
+      "triangles": 486470,
+      "student_hall_mae_cm": 21.518327236175537
+    },
+    {
+      "clipped_mae_cm": 22.503904342651367,
+      "samples": 77582,
+      "views": [
+        {
+          "frame": 5,
+          "coverage": 0.9751533742331289,
+          "clipped_mae_cm": 35.072261810302734
+        },
+        {
+          "frame": 13,
+          "coverage": 0.9521272365805169,
+          "clipped_mae_cm": 29.49819564819336
+        },
+        {
+          "frame": 21,
+          "coverage": 1.0,
+          "clipped_mae_cm": 17.221237182617188
+        },
+        {
+          "frame": 29,
+          "coverage": 0.9871118203019517,
+          "clipped_mae_cm": 22.355052947998047
+        },
+        {
+          "frame": 37,
+          "coverage": 0.9030735581903995,
+          "clipped_mae_cm": 29.80146026611328
+        },
+        {
+          "frame": 45,
+          "coverage": 0.986895241111727,
+          "clipped_mae_cm": 12.136520385742188
+        }
+      ],
+      "depth": 11,
+      "triangles": 2026550,
+      "student_hall_mae_cm": 20.378567695617676
+    }
+  ],
+  "selected_depth": 11,
+  "final_triangles": 2120479,
+  "note": "Full 360-degree LiDAR Poisson mesh; faces farther than 25cm from measured support removed. Six complete scans withheld from candidate mesh integration; all-scan poses reused."
+}

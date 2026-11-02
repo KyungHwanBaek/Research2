@@ -1,0 +1,32 @@
+[
+  {
+    "directory": "third_party/depth_anything_3",
+    "remote": "https://github.com/ByteDance-Seed/Depth-Anything-3.git",
+    "commit": "3d835ec1a5802d64a8b8b15f817a1ab54809bfe4"
+  },
+  {
+    "directory": "third_party/metalsplat",
+    "remote": "https://github.com/tchauffi/metalsplat.git",
+    "commit": "84e8c3a433f71c107e9387d3f72a765436c11f6e"
+  },
+  {
+    "directory": "third_party/msplat",
+    "remote": "https://github.com/rayanht/msplat.git",
+    "commit": "6b819711fa7c90f054567cb4fb4937743367afdd"
+  },
+  {
+    "directory": "third_party/openmvs_source",
+    "remote": "https://github.com/cdcseacave/openMVS.git",
+    "commit": "58117204c86bbb11a0b25b26a8987676cf11274d"
+  },
+  {
+    "directory": "third_party/pixel_aligned_rgb_nir",
+    "remote": "https://github.com/divisonofficer/Pixel_aligned_RGB_NIR_Stereo.git",
+    "commit": "8215f4d31d588c3c06e75ec6959b75474002bb7e"
+  },
+  {
+    "directory": "third_party/raft_stereo",
+    "remote": "https://github.com/princeton-vl/RAFT-Stereo.git",
+    "commit": "6e93ed2169bd858dbb43033988563f3b0bb49506"
+  }
+]

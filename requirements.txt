@@ -1,0 +1,8 @@
+huggingface_hub>=0.25
+h5py>=3.11
+numpy>=2.0
+pillow>=10.4
+matplotlib>=3.9
+opencv-python>=4.10
+scipy>=1.14
+pycolmap==4.2.1

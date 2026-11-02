@@ -1,0 +1,4 @@
+# Separate Python 3.12 environment for reliable TSDF integration on macOS ARM.
+# Open3D 0.20.0 produces empty TSDF geometry on the tested machine.
+open3d==0.19.0
+opencv-python>=4.10

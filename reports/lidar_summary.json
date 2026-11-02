@@ -1,0 +1,15 @@
+{
+  "selected": "posegraph",
+  "frames": 48,
+  "full_map_points": 1648179,
+  "colored_points": 232136,
+  "voxel_m": 0.07,
+  "source": "dataset raw LiDAR + original RGB + original COLMAP components",
+  "note": "Unobserved LiDAR geometry remains gray in full map; colored output contains camera-visible geometry only.",
+  "selected_mesh": "poisson",
+  "mesh_triangles": 2120479,
+  "mesh_vertices": 1110732,
+  "poisson_depth": 11,
+  "minimum_lidar_range_m": 3.0,
+  "tsdf_mesh_triangles": 406814
+}

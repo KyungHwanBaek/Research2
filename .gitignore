@@ -1,0 +1,74 @@
+.venv*/
+__pycache__/
+*.pyc
+
+# Large datasets and reconstruction artifacts
+data/raw/
+data/extracted/
+data/colmap_input/
+experiments/
+results/pointclouds/
+logs/
+
+# COLMAP/3DGS outputs
+*.db
+database.db
+dense/
+sparse/
+stereo/
+distorted/
+*.ply
+*.bin
+
+# Local/editor noise
+.DS_Store
+.vscode/
+
+# Credential and machine-local state
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.aws/
+.codex/
+.openai/
+.github-staging/
+
+# Downloaded upstream code, nested hosting repositories and generated output
+/third_party/
+/sites/
+/data/
+/experiments/
+/outputs/
+/exports/
+/results/
+*.log
+*.egg-info/
+default.metallib
+
+# Large data and compiled artifacts, including accidental copies
+*.splat
+*.glb
+*.gltf
+*.mvs
+*.hdf5
+*.h5
+*.npz
+*.npy
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.onnx
+*.metallib
+*.so
+*.dylib
+*.tar
+*.tar.gz
+*.zip
+*.mp4
+*.mov
+*.pdf
+*.docx
+*.xlsx
